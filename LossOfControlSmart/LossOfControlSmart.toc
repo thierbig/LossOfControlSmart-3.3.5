@@ -1,9 +1,0 @@
-## Interface: 30300
-## Title: LossOfControlSmart
-## Version: 1.0
-## Author: RomanSpector & Blizzard
-## Notes: Backport LossOfControlSmart from retail
-## DefaultState: enabled
-## SavedVariables: LossOfControlDB
-
-LossOfControlSmart.xml
