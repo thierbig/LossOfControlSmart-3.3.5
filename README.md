@@ -20,7 +20,7 @@ This addon displays a prominent alert when your character loses control due to c
 
 ## Installation
 - Download the repository ZIP and extract the `LossOfControlSmart` folder into `Interface/AddOns/`.
-- Or use the direct link: [Download ZIP](https://github.com/RomanSpector/LossOfControlSmart/archive/refs/heads/main.zip)
+- Use the direct link: [Download ZIP](https://github.com/RomanSpector/LossOfControlSmart/archive/refs/heads/main.zip)
 
 ## Usage
 - Open options with `/loc` or `Esc → Interface → AddOns → LossOfControlSmart`.
@@ -30,7 +30,7 @@ This addon displays a prominent alert when your character loses control due to c
 - In the main section, configure what to show for `Full`, `Silence`, `Interrupt`, `Disarm`, and `Root`.
 
 ## Requirements
-- Download `!!!CompatShims` for addon compatibility if you get errors.
+- Download [!!!CompatShims](https://github.com/thierbig/CompatShims-3.3.5) for addon compatibility to avoid lua errors.
 
 ## Screenshot
 ![alt tag](https://media.wago.io/cards/2FxJjFUWw/c-1613239420237.jpg)
