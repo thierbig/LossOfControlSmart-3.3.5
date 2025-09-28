@@ -20,7 +20,7 @@ This addon displays a prominent alert when your character loses control due to c
 
 ## Installation
 - Download the repository ZIP and extract the `LossOfControlSmart` folder into `Interface/AddOns/`.
-- Use the direct link: [Download ZIP](https://github.com/thierbig/LossOfControlSmart/archive/refs/heads/main.zip)
+- Use the direct link: [Download ZIP](https://github.com/thierbig/LossOfControlSmart-3.3.5/archive/refs/heads/main.zip))
 
 ## Usage
 - Open options with `/loc` or `Esc → Interface → AddOns → LossOfControlSmart`.
