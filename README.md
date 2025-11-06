@@ -29,9 +29,6 @@ This addon displays a prominent alert when your character loses control due to c
   - Adjust width/height and X/Y to fine-tune. Sound can be toggled at any time.
 - In the main section, configure what to show for `Full`, `Silence`, `Interrupt`, `Disarm`, and `Root`.
 
-## Optional (ElvUI/Heal prediction on party frames) and other addons may break
-- Download [!!!CompatShims](https://github.com/thierbig/CompatShims-3.3.5) for addon compatibility to avoid lua errors. (DO NOT USE ELVUI WITH THIS)
-
 ## Screenshot
 <img width="631" height="619" alt="image" src="https://github.com/user-attachments/assets/51efb4f4-c4ba-4952-b19c-922a9aec8e4a" />
 <img width="1048" height="194" alt="image" src="https://github.com/user-attachments/assets/eb5a1342-6cec-4613-8086-31e2c53794ab" />
